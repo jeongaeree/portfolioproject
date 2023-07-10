@@ -960,7 +960,7 @@ p.licen span{
 }
 
 .openredesign{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 1920px;
     height: 960px;
     margin: 0 auto;
