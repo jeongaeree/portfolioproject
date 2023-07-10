@@ -476,7 +476,7 @@ dd figure>li{
 /* resume */
 
 .openR{    
-    border: 1px solid red;   
+    /* border: 1px solid red;    */
     font-family: pretendard;    
     width: 1920px;    
     margin: 0 auto;
@@ -818,7 +818,7 @@ p.licen span{
 
 .popuptxt {
     background: #181818;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 500px;
     height: 500px;
     position: fixed;
@@ -916,7 +916,7 @@ p.licen span{
 .popuptxt>ul>li>ul>li{
     width: 13px;
     height: 13px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .popuptxt>ul>li img{
@@ -1096,7 +1096,7 @@ img.blue{
     position: fixed;
     top:0;
     left: 0;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     width: 1920px;
     height: 960px;
     display: none;
